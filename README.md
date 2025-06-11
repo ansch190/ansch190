@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansch190
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java & Delphi
+- 🌱 I’m currently learning Delphi
 - 💞️ I’m looking to collaborate on Apps or Gui Software
 
 <!---
