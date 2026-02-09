@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ansch190
-- 👀 I’m interested in Java & Delphi
-- 🌱 I’m currently learning Delphi
-- 💞️ I’m looking to collaborate on Apps or Gui Software
+- 👀 I’m interested in Java
 
 <!---
 ansch190/ansch190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
